@@ -1,6 +1,6 @@
 # Radio Collarbone animation preview
 
-The left hand rises to the left collarbone, stays there while the player transmits on the radio, and returns when transmission stops. This preview illustrates the intended 0.15-second transitions with a short hold.
+The left hand rises to the left collarbone, stays there while the player transmits on the radio, and returns when transmission stops. The revised grip places the palm flatter against the upper chest, with the fingers together and curled around the shoulder-microphone position and the thumb opposed. This preview illustrates the intended 0.15-second transitions with a short hold.
 
 **This is a Blender animation preview. Native Reforger import and in-game playback remain unverified.**
 
@@ -9,8 +9,10 @@ The left hand rises to the left collarbone, stays there while the player transmi
 - [MP4 video](RadioCollarbone-preview.mp4)
 - [Looping GIF](RadioCollarbone-preview.gif)
 - [Hold pose image](RadioCollarbone-preview-hold.png)
+- [Hand close-up](RadioCollarbone-preview-closeup.png)
+- [Hand close-up from the side](RadioCollarbone-preview-closeup-left.png)
 
-The MP4 and GIF are 2.5 seconds long at 20 frames per second, 640 × 752 pixels.
+The MP4 and GIF are 2.5 seconds long at 20 frames per second, 640 × 752 pixels. See the [police photo reference notes](REFERENCES.md) for the grip references.
 
 ## Attribution and license
 
